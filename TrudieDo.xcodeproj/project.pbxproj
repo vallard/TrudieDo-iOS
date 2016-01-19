@@ -7,83 +7,83 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5EE532B81C3F9A5400DC7606 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE532B71C3F9A5400DC7606 /* AppDelegate.swift */; };
-		5EE532BD1C3F9A5400DC7606 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EE532BB1C3F9A5400DC7606 /* Main.storyboard */; };
-		5EE532BF1C3F9A5400DC7606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EE532BE1C3F9A5400DC7606 /* Assets.xcassets */; };
-		5EE532C21C3F9A5400DC7606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EE532C01C3F9A5400DC7606 /* LaunchScreen.storyboard */; };
-		5EF28AB21C4D6CA500143D67 /* DoListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF28AB11C4D6CA500143D67 /* DoListController.swift */; };
-		A75196DBFC6A171E1947DA0A /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91B7088C5631AACD88495D5C /* Pods.framework */; };
+		5E827DF81C4DBC03006C3274 /* doListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E827DF71C4DBC03006C3274 /* doListController.swift */; };
+		5E8389611C4DBACF00476AA4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8389601C4DBACF00476AA4 /* AppDelegate.swift */; };
+		5E8389661C4DBACF00476AA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E8389641C4DBACF00476AA4 /* Main.storyboard */; };
+		5E8389681C4DBACF00476AA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E8389671C4DBACF00476AA4 /* Assets.xcassets */; };
+		5E83896B1C4DBACF00476AA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E8389691C4DBACF00476AA4 /* LaunchScreen.storyboard */; };
+		93A8C727C330EAD70F6AB41B /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EDAB827C4A7B1E2AB19E18C /* Pods.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		37E6309F43D38679CB6983B0 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
-		5EE532B41C3F9A5400DC7606 /* TrudieDo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrudieDo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EE532B71C3F9A5400DC7606 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5EE532BC1C3F9A5400DC7606 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5EE532BE1C3F9A5400DC7606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5EE532C11C3F9A5400DC7606 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5EE532C31C3F9A5400DC7606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EF28AB11C4D6CA500143D67 /* DoListController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoListController.swift; sourceTree = "<group>"; };
-		91B7088C5631AACD88495D5C /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9CA2DB5467B6DD0010A52064 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		5D15D619D5CE31760F30F901 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		5E827DF71C4DBC03006C3274 /* doListController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = doListController.swift; sourceTree = "<group>"; };
+		5E83895D1C4DBACF00476AA4 /* TrudieDo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrudieDo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E8389601C4DBACF00476AA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5E8389651C4DBACF00476AA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5E8389671C4DBACF00476AA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5E83896A1C4DBACF00476AA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5E83896C1C4DBACF00476AA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EDAB827C4A7B1E2AB19E18C /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0C1DB1F94EA8518CC1080D1 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5EE532B11C3F9A5400DC7606 /* Frameworks */ = {
+		5E83895A1C4DBACF00476AA4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A75196DBFC6A171E1947DA0A /* Pods.framework in Frameworks */,
+				93A8C727C330EAD70F6AB41B /* Pods.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5EE532AB1C3F9A5400DC7606 = {
+		5E8389541C4DBACF00476AA4 = {
 			isa = PBXGroup;
 			children = (
-				5EE532B61C3F9A5400DC7606 /* TrudieDo */,
-				5EE532B51C3F9A5400DC7606 /* Products */,
-				914DB4E4CF4DC6F69C48D25B /* Pods */,
-				753AEB96A116306802AD6EF8 /* Frameworks */,
+				5E83895F1C4DBACF00476AA4 /* TrudieDo */,
+				5E83895E1C4DBACF00476AA4 /* Products */,
+				9CC1EF6690078049C39C02B7 /* Pods */,
+				90899254C18661B190857955 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		5EE532B51C3F9A5400DC7606 /* Products */ = {
+		5E83895E1C4DBACF00476AA4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5EE532B41C3F9A5400DC7606 /* TrudieDo.app */,
+				5E83895D1C4DBACF00476AA4 /* TrudieDo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5EE532B61C3F9A5400DC7606 /* TrudieDo */ = {
+		5E83895F1C4DBACF00476AA4 /* TrudieDo */ = {
 			isa = PBXGroup;
 			children = (
-				5EE532B71C3F9A5400DC7606 /* AppDelegate.swift */,
-				5EE532BB1C3F9A5400DC7606 /* Main.storyboard */,
-				5EE532BE1C3F9A5400DC7606 /* Assets.xcassets */,
-				5EE532C01C3F9A5400DC7606 /* LaunchScreen.storyboard */,
-				5EE532C31C3F9A5400DC7606 /* Info.plist */,
-				5EF28AB11C4D6CA500143D67 /* DoListController.swift */,
+				5E8389601C4DBACF00476AA4 /* AppDelegate.swift */,
+				5E8389641C4DBACF00476AA4 /* Main.storyboard */,
+				5E8389671C4DBACF00476AA4 /* Assets.xcassets */,
+				5E8389691C4DBACF00476AA4 /* LaunchScreen.storyboard */,
+				5E83896C1C4DBACF00476AA4 /* Info.plist */,
+				5E827DF71C4DBC03006C3274 /* doListController.swift */,
 			);
 			path = TrudieDo;
 			sourceTree = "<group>";
 		};
-		753AEB96A116306802AD6EF8 /* Frameworks */ = {
+		90899254C18661B190857955 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				91B7088C5631AACD88495D5C /* Pods.framework */,
+				9EDAB827C4A7B1E2AB19E18C /* Pods.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		914DB4E4CF4DC6F69C48D25B /* Pods */ = {
+		9CC1EF6690078049C39C02B7 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				9CA2DB5467B6DD0010A52064 /* Pods.debug.xcconfig */,
-				37E6309F43D38679CB6983B0 /* Pods.release.xcconfig */,
+				5D15D619D5CE31760F30F901 /* Pods.debug.xcconfig */,
+				B0C1DB1F94EA8518CC1080D1 /* Pods.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -91,16 +91,16 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5EE532B31C3F9A5400DC7606 /* TrudieDo */ = {
+		5E83895C1C4DBACF00476AA4 /* TrudieDo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EE532C61C3F9A5400DC7606 /* Build configuration list for PBXNativeTarget "TrudieDo" */;
+			buildConfigurationList = 5E83896F1C4DBACF00476AA4 /* Build configuration list for PBXNativeTarget "TrudieDo" */;
 			buildPhases = (
-				6CC7B9DF82DEE3E9E2F02DAC /* Check Pods Manifest.lock */,
-				5EE532B01C3F9A5400DC7606 /* Sources */,
-				5EE532B11C3F9A5400DC7606 /* Frameworks */,
-				5EE532B21C3F9A5400DC7606 /* Resources */,
-				F173463FA2A79FD051C7BD0C /* Embed Pods Frameworks */,
-				F1038C1C7BA32D9229852479 /* Copy Pods Resources */,
+				32617D052F0857341D110379 /* Check Pods Manifest.lock */,
+				5E8389591C4DBACF00476AA4 /* Sources */,
+				5E83895A1C4DBACF00476AA4 /* Frameworks */,
+				5E83895B1C4DBACF00476AA4 /* Resources */,
+				9BAF2F85A4581BEAA0996ABC /* Embed Pods Frameworks */,
+				716D307C3C3F678F8F1458EC /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -108,25 +108,25 @@
 			);
 			name = TrudieDo;
 			productName = TrudieDo;
-			productReference = 5EE532B41C3F9A5400DC7606 /* TrudieDo.app */;
+			productReference = 5E83895D1C4DBACF00476AA4 /* TrudieDo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5EE532AC1C3F9A5400DC7606 /* Project object */ = {
+		5E8389551C4DBACF00476AA4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Strip Mall Software";
 				TargetAttributes = {
-					5EE532B31C3F9A5400DC7606 = {
+					5E83895C1C4DBACF00476AA4 = {
 						CreatedOnToolsVersion = 7.2;
 					};
 				};
 			};
-			buildConfigurationList = 5EE532AF1C3F9A5400DC7606 /* Build configuration list for PBXProject "TrudieDo" */;
+			buildConfigurationList = 5E8389581C4DBACF00476AA4 /* Build configuration list for PBXProject "TrudieDo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -134,31 +134,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 5EE532AB1C3F9A5400DC7606;
-			productRefGroup = 5EE532B51C3F9A5400DC7606 /* Products */;
+			mainGroup = 5E8389541C4DBACF00476AA4;
+			productRefGroup = 5E83895E1C4DBACF00476AA4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5EE532B31C3F9A5400DC7606 /* TrudieDo */,
+				5E83895C1C4DBACF00476AA4 /* TrudieDo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5EE532B21C3F9A5400DC7606 /* Resources */ = {
+		5E83895B1C4DBACF00476AA4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EE532C21C3F9A5400DC7606 /* LaunchScreen.storyboard in Resources */,
-				5EE532BF1C3F9A5400DC7606 /* Assets.xcassets in Resources */,
-				5EE532BD1C3F9A5400DC7606 /* Main.storyboard in Resources */,
+				5E83896B1C4DBACF00476AA4 /* LaunchScreen.storyboard in Resources */,
+				5E8389681C4DBACF00476AA4 /* Assets.xcassets in Resources */,
+				5E8389661C4DBACF00476AA4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		6CC7B9DF82DEE3E9E2F02DAC /* Check Pods Manifest.lock */ = {
+		32617D052F0857341D110379 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -173,7 +173,7 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		F1038C1C7BA32D9229852479 /* Copy Pods Resources */ = {
+		716D307C3C3F678F8F1458EC /* Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -188,7 +188,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		F173463FA2A79FD051C7BD0C /* Embed Pods Frameworks */ = {
+		9BAF2F85A4581BEAA0996ABC /* Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -206,30 +206,30 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5EE532B01C3F9A5400DC7606 /* Sources */ = {
+		5E8389591C4DBACF00476AA4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EE532B81C3F9A5400DC7606 /* AppDelegate.swift in Sources */,
-				5EF28AB21C4D6CA500143D67 /* DoListController.swift in Sources */,
+				5E827DF81C4DBC03006C3274 /* doListController.swift in Sources */,
+				5E8389611C4DBACF00476AA4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5EE532BB1C3F9A5400DC7606 /* Main.storyboard */ = {
+		5E8389641C4DBACF00476AA4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5EE532BC1C3F9A5400DC7606 /* Base */,
+				5E8389651C4DBACF00476AA4 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		5EE532C01C3F9A5400DC7606 /* LaunchScreen.storyboard */ = {
+		5E8389691C4DBACF00476AA4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5EE532C11C3F9A5400DC7606 /* Base */,
+				5E83896A1C4DBACF00476AA4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -237,7 +237,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		5EE532C41C3F9A5400DC7606 /* Debug */ = {
+		5E83896D1C4DBACF00476AA4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,7 +282,7 @@
 			};
 			name = Debug;
 		};
-		5EE532C51C3F9A5400DC7606 /* Release */ = {
+		5E83896E1C4DBACF00476AA4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -320,24 +320,26 @@
 			};
 			name = Release;
 		};
-		5EE532C71C3F9A5400DC7606 /* Debug */ = {
+		5E8389701C4DBACF00476AA4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9CA2DB5467B6DD0010A52064 /* Pods.debug.xcconfig */;
+			baseConfigurationReference = 5D15D619D5CE31760F30F901 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TrudieDo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = stripmallsoftware.TrudieDo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		5EE532C81C3F9A5400DC7606 /* Release */ = {
+		5E8389711C4DBACF00476AA4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 37E6309F43D38679CB6983B0 /* Pods.release.xcconfig */;
+			baseConfigurationReference = B0C1DB1F94EA8518CC1080D1 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TrudieDo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = stripmallsoftware.TrudieDo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -347,25 +349,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5EE532AF1C3F9A5400DC7606 /* Build configuration list for PBXProject "TrudieDo" */ = {
+		5E8389581C4DBACF00476AA4 /* Build configuration list for PBXProject "TrudieDo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5EE532C41C3F9A5400DC7606 /* Debug */,
-				5EE532C51C3F9A5400DC7606 /* Release */,
+				5E83896D1C4DBACF00476AA4 /* Debug */,
+				5E83896E1C4DBACF00476AA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EE532C61C3F9A5400DC7606 /* Build configuration list for PBXNativeTarget "TrudieDo" */ = {
+		5E83896F1C4DBACF00476AA4 /* Build configuration list for PBXNativeTarget "TrudieDo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5EE532C71C3F9A5400DC7606 /* Debug */,
-				5EE532C81C3F9A5400DC7606 /* Release */,
+				5E8389701C4DBACF00476AA4 /* Debug */,
+				5E8389711C4DBACF00476AA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5EE532AC1C3F9A5400DC7606 /* Project object */;
+	rootObject = 5E8389551C4DBACF00476AA4 /* Project object */;
 }
